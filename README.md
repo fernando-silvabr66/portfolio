@@ -5,9 +5,9 @@ Minimalist portfolio project using Javascript and CSS created to show Web Develo
 
 ## Images
 
-![screenshot](app-screenshot.jpg)
-![screenshot](app-screenshot-mobile-1.jpg)
-![screenshot](app-screenshot-mobile-2.jpg)
+![screenshot](./src/assets/screenshot-1.png)
+![screenshot](./src/assets/screenshot-2.png)
+![screenshot](./src/assets/screenshot-3.png)
 
 ## Video
 
